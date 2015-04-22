@@ -17,9 +17,10 @@ Its purpose is to produce output which (A) is reasonably well-distributed and
 [Here](http://andyhall.github.io/ndhash/example/).
 
 
-
 ### Usage
-
+    
+    // install with: npm install ndhash
+    
     var hash = require('ndhash')
     
     hash(5)           // 0.8459388134141277

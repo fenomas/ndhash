@@ -11,6 +11,10 @@
   "scripts": {
     "test": "beefy example/index.js:bundle.js 8080 --cwd example --live --open"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyhall/ndhash"
+  },
   "author": "Andy Hall",
   "license": "MIT"
 }
