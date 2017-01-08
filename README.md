@@ -2,6 +2,11 @@ ndhash
 ==========
 Javascript library to hash integer inputs into random-looking output.
 
+-----
+
+#### Note: I'm no longer using this library. Instead: [murmur-numbers](https://github.com/andyhall/murmur-numbers)
+
+-----
 
 This is a fast, simple (non-crypto) deterministic JS hash function that takes one 
 or more integer inputs and returns a float in the range 0..1 (like `Math.random`). 
